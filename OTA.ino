@@ -9,10 +9,10 @@ const char * password = "helloworld";
 
 
 String FirmwareVer = {
-  "2.2"
+  "0.1"
 };
-#define URL_fw_Version "https://raw.githubusercontent.com/programmer131/ESP8266_ESP32_SelfUpdate/master/esp32_ota/bin_version.txt"
-#define URL_fw_Bin "https://raw.githubusercontent.com/programmer131/ESP8266_ESP32_SelfUpdate/master/esp32_ota/fw.bin"
+#define URL_fw_Version "https://github.com/SBC21G01/SBC1/edit/main/bin_version.txt"
+#define URL_fw_Bin "https://github.com/SBC21G01/SBC1/edit/main/OTA.ino"
 
 //#define URL_fw_Version "http://cade-make.000webhostapp.com/version.txt"
 //#define URL_fw_Bin "http://cade-make.000webhostapp.com/firmware.bin"
